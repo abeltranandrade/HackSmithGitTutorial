@@ -1,1 +1,2 @@
-# HackSmithGitTutorial
+# HackSmithGitTutorial We love cit 
+
